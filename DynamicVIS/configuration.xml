@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	
+	
+	<dataset>
+		<controlFrame>
+			<position xpos = "2560"/>
+			<position ypos = "720"/>
+			<size xpos = "1280"/>
+			<size ypos = "400"/>
+			<subframes>
+				<HistogramFrame>
+					<position xpos = "0"/>
+					<position ypos = "0"/>
+					<size xpos = "1280"/>
+					<size ypos = "720"/>
+				</HistogramFrame>
+	
+				<DynamicFrame>
+					<position xpos = "1280"/>
+					<position ypos = "0"/>
+					<size xpos = "1280"/>
+					<size ypos = "720"/>
+				</DynamicFrame>
+				
+				<ParaCoordFrame>
+					<position xpos = "0"/>
+					<position ypos = "720"/>
+					<size xpos = "1280"/>
+					<size ypos = "720"/>
+				</ParaCoordFrame>
+				
+				<GraphFrame>
+					<position xpos = "1280"/>
+					<position ypos = "720"/>
+					<size xpos = "1280"/>
+					<size ypos = "720"/>
+				</GraphFrame>
+				
+				
+			 	<logFrame>
+					<position xpos = "2560"/>
+					<position ypos = "1120"/>
+					<size xpos = "1280"/>
+					<size ypos = "320"/>
+				</logFrame>
+			</subframes>
+		</controlFrame>
+		
+		<data>
+			<file></file>
+			<time_step>1</time_step>
+			<range_step>1</range_step>
+			
+			<filter>
+				<selected>
+				</selected>
+				<excluded>
+				</excluded>
+				<neexcluded>
+				</neexcluded>
+			</filter>
+		</data>
+	</dataset>
+	
+	
+
+	
+	
+	 
+	
+
+	
+	
+</project>
